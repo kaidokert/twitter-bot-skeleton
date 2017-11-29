@@ -9,4 +9,5 @@ This github repo stands a simple starting point to get a twitter bot built on AW
 ## Prerequisites
 
 1. [Sam Local](https://github.com/awslabs/aws-sam-local) installed on your computer
+1. A twitter account and [twitter development keys](https://developer.twitter.com/)
 1. An interest in all things Serverless
